@@ -46,8 +46,7 @@
 | :--- | :--- | :---: | :---: |
 | **KisoKu.MEOW_bot** | 📝 *Descripción breve.* Sistema de gestión backend que resuelve X problema. | ![Python](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [📂 Ver Código](#) |
 | **api principo crud** | 📝 *Descripción breve.* Script de automatización o API RESTful. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | [📂 Ver Código](#) |
-| **Nombre Proyecto 3** | 📝 *Descripción breve.* Base de datos optimizada para consultas complejas. | ![SQL](https://img.shields.io/badge/SQL-07405e?style=flat-square&logo=postgresql&logoColor=white) | [📂 Ver Código](#) |
-
+|
 <br>
 <br>
 
@@ -56,6 +55,8 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=KisoKucode&show_icons=true&theme=radical&hide_border=true" height="150" alt="KisoKu's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KisoKucode&layout=compact&theme=radical&hide_border=true" height="150" alt="KisoKu's Top Langs" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=KisoKucode&label=Profile%20Views&color=0e75b6&style=flat" alt="KisoKucode" />
 </p>
 
 </div>
