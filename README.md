@@ -5,12 +5,12 @@
   
   <h1>Hi there, I'm <a href="https://github.com/KisoKucode">KisoKu</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-  <h3>🚀 Backend Developer & Software Engineering Student</h3>
+  <h3>🎓 Software Engineering Student & Backend Developer 🚀</h3>
   
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="daniel.ampv39@gmail.com" 
+  <a href="mailto:daniel.ampv39@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   
@@ -19,8 +19,8 @@
 
 <img align="right" alt="Coding GIF" height="170px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- 👨‍💻 I’m currently working on **Backend Architectures** and personal projects.
-- 📚 I’m currently learning **Server Management, System Design, and Advanced Java/Python**.
+- �‍💻 As a **Software Engineering Student**, I’m working on **Backend Architectures** and personal projects.
+- � I’m currently learning **Server Management, System Design, and Advanced Java/Python**.
 - 🎯 Goals: To master backend technologies, maintain scalable systems, and contribute to open source.
 - 🧠 Fun fact: I love understanding how servers work down to the metal.
 
@@ -40,12 +40,12 @@
 
 <br>
 
-### 💻 Proyectos Destacados
+### 💻 Featured Projects
 
-| Proyecto | Descripción | Stack Tecnológico | Repositorio |
+| Project | Description | Tech Stack | Repository |
 | :--- | :--- | :---: | :---: |
-| **KisoKu.MEOW_bot** | 📝 *Descripción breve.* Sistema de gestión backend que resuelve X problema. | ![Python](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [📂 Ver Código](#) |
-| **api principo crud** | 📝 *Descripción breve.* Script de automatización o API RESTful. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | [📂 Ver Código](#) |
+| **KisoKu.MEOW_bot** | 📝 *Short description.* Backend management system solving X problem. | ![Python](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [📂 View Code](#) |
+| **api principo crud** | 📝 *Short description.* Automation script or RESTful API. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | [📂 View Code](#) |
 |
 <br>
 <br>
