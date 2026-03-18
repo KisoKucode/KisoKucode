@@ -1,33 +1,50 @@
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  
+  <br>
+  
+  <h1>Hi there, I'm <a href="https://github.com/KisoKucode">KisoKu</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  
+  <h3>🚀 Backend Developer & Software Engineering Student</h3>
+  
+  <br>
+</div>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img align="right" alt="Coding GIF" height="170px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>  I'm [KisoKu!](https://github.com/KisoKucode/KisoKucode)  
+- 👨‍💻 I’m currently working on **Backend Architectures** and personal projects.
+- 📚 I’m currently learning **Server Management, System Design, and Advanced Java/Python**.
+- 🎯 Goals: To master backend technologies, maintain scalable systems, and contribute to open source.
+- 🧠 Fun fact: I love understanding how servers work down to the metal.
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<br>
 
-### I am a student in software engineering (in progress)
- - 👨‍💻 I am currently working on personal projects learning backend in all its glory
- - 📚 Learn everything about technologies and Backend (I am fond of servers and how their software works)
- - 💪🏼 Future goals: Learn more technologies - be able to maintain those technologies and improve them over time
+<div align="center">
 
- ##### Languages I use
- ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
- ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
- ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+### 🛠️ Languages & Tools
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-##### Some of the technologies I have worked with
- 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+<br>
+<br>
 
-<br/>
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=KisoKucode&show_icons=true&theme=radical&hide_border=true" height="150" alt="KisoKu's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KisoKucode&layout=compact&theme=radical&hide_border=true" height="150" alt="KisoKu's Top Langs" />
+</p>
+
+</div>
+
+<br>
 
 ---
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
