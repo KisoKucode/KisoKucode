@@ -32,6 +32,16 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
+
+### 💻 Proyectos Destacados
+
+| Proyecto | Descripción | Stack Tecnológico | Repositorio |
+| :--- | :--- | :---: | :---: |
+| **Nombre Proyecto 1** | 📝 *Descripción breve.* Sistema de gestión backend que resuelve X problema. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [📂 Ver Código](#) |
+| **Nombre Proyecto 2** | 📝 *Descripción breve.* Script de automatización o API RESTful. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | [📂 Ver Código](#) |
+| **Nombre Proyecto 3** | 📝 *Descripción breve.* Base de datos optimizada para consultas complejas. | ![SQL](https://img.shields.io/badge/SQL-07405e?style=flat-square&logo=postgresql&logoColor=white) | [📂 Ver Código](#) |
+
+<br>
 <br>
 
 ### 📊 GitHub Stats
