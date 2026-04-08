@@ -51,16 +51,17 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KisoKucode&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800&cache_buster=20240408175535" alt="KisoKu's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KisoKucode&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_buster=20240408175535" alt="KisoKu's Top Languages" height="170px" />
-  
-  <br>
-  
-  <img src="https://streak-stats.demolab.com/?user=KisoKucode&theme=radical&hide_border=true&cache_buster=20240408175535" alt="KisoKu's Streak" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=KisoKucode&label=Profile%20Views&color=0e75b6&style=flat-square&cache_buster=20240408175535" alt="KisoKucode Views" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=KisoKucode&show_icons=true&theme=radical&hide_border=true" height="150" alt="KisoKu's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KisoKucode&layout=compact&theme=radical&hide_border=true" height="150" alt="KisoKu's Top Langs" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=KisoKucode&label=Profile%20Views&color=0e75b6&style=flat" alt="KisoKucode" />
+</p>
+
 </div>
+
+<br>
+
 
 ---
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" width="100%">
